@@ -1,12 +1,9 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/04/19/26/97/1000_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)]
+[![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)]
 <h1 align="center">Hi 👋, I'm SUDARSHAN YADAV</h1>
 <h3 align="center">A cybersecurity enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sud220&label=Profile%20views&color=0e75b6&style=flat" alt="sud220" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sud220" alt="sud220" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_mr_sud" target="blank"><img src="https://img.shields.io/twitter/follow/_mr_sud?logo=twitter&style=for-the-badge" alt="_mr_sud" /></a> </p>
 
